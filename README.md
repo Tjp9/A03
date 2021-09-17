@@ -1,2 +1,2 @@
 # TylersGIt
-Hellp people
+Hello people
