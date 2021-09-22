@@ -1,5 +1,5 @@
 # TylersGIt
 Hello people
-you are th cool people
+you are the cool people
 yeah
 
